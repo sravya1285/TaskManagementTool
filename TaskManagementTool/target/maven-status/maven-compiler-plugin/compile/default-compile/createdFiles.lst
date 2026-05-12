@@ -1,0 +1,12 @@
+com\TaskManagementTool\Security\SecurityConfig.class
+com\TaskManagementTool\Repository\IssueRepository.class
+com\TaskManagementTool\Controller\IssueController.class
+com\TaskManagementTool\Controller\UserController.class
+com\TaskManagementTool\Enum\IssueStatus.class
+com\TaskManagementTool\Service\UserService.class
+com\TaskManagementTool\Entity\Issue.class
+com\TaskManagementTool\Service\IssueService.class
+com\TaskManagementTool\Entity\User.class
+com\TaskManagementTool\Enum\Role.class
+com\TaskManagementTool\Repository\UserRepository.class
+com\TaskManagementTool\TaskManagementToolApplication.class
